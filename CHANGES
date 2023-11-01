@@ -1,0 +1,40 @@
+
+# Note: this file is parsed by fetch_external_sources.py to get the revision,
+# please do not move the lines and change the formats at will.
+
+Promotion history for /spvgen/external
+
+[glslang]
+Commit: 396596ca
+Date: 2023/7/31
+396596ca Replace GlobalLock functions with std::mutex
+
+[SPIRV-tools]
+Commit: e68fe9be
+Date: 2023/7/27
+e68fe9be Add SPV_EXT_shader_atomic_float_add to allow lists (#5348)
+
+[SPIRV-headers]
+Commit: ae89923
+Date: 2023/7/28
+ae89923 Merge pull request #364 from kpet/coopmatrix-khr-suffix
+
+[SPIRV-cross]
+Commit: bccaa94d
+Date: 2023/7/26
+bccaa94d Merge pull request #2178 from billhollings/arg-buff-fixes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
